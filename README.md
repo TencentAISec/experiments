@@ -1,5 +1,7 @@
 # AICGSecEval Evaluation Results Upload
 
+[中文文档](./README_zh.md)
+
 This repository contains records of submissions to the AICGSecEval leaderboard.
 
 ## 🏆 Participate in the Leaderboard
